@@ -1,4 +1,4 @@
-name: Untrusted CI FL
+name: Untrusted CI LF
 
 on:
   pull_request:
